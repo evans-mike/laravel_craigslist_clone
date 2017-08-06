@@ -1,1 +1,5 @@
-# laravel_craigslist_clone
+To access MySQL database:
+
+```
+mysql -uroot --host=localhost --port=33061
+```
