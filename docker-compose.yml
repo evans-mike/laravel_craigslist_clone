@@ -25,7 +25,7 @@ services:
         image: mysql:5.6
         environment:
             - "MYSQL_ROOT_PASSWORD=secret"
-            - "MYSQL_DATABASE=cl_clone"
+            - "MYSQL_DATABASE=craigslistClone"
             - "MYSQL_USER=root"
             - "MYSQL_PASSWORD=secret"
         ports:
