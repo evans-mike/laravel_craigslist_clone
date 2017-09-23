@@ -12,3 +12,7 @@ To connect MySQL database via SequelPro:
 - port:33061
 
 _then select `connect via socket`_
+
+Admin user:
+ - user:admin@clone.com
+ - password:password
